@@ -231,7 +231,7 @@ h3 {
   border: 3px solid #f2c9c5;
   transition: transform 0.7s;
   margin: 20px 100px 30px 0;
-  transform: scale(1.15);
+  transform: scale(1.1);
 }
 
 .section-products img:hover {
